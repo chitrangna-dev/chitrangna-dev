@@ -1,121 +1,201 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=66BB6A&center=true&vCenter=true&width=700&lines=Hi+I'm+Chitrangna;Aspiring+Full+Stack+Developer;Building+Useful+Software;Future+Tech+Entrepreneur" />
-</p>
-
 <div align="center">
 
-# 👋 Hi, I'm Chitrangna
+<img src="banner.png" width="100%" alt="Banner">
 
-### 💻 Aspiring Full Stack Developer | 🚀 Future Tech Entrepreneur
+# Chitrangna
 
-> *"Building useful software today. Building impactful companies tomorrow."*
+### Computer Science Student • Full Stack Developer • Product Builder
 
-<img src="banner.png" width="100%" alt="Banner"/>
+<p>
+I enjoy building software that is simple, fast, and useful.
+Currently learning full-stack development while creating projects that strengthen my engineering skills.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=flat" />
+<p>
+<a href="https://github.com/chitrangna-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/chitrangna-885abb413">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://chitrangna.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-2DBE60?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## 🌱 About Me
+# About
 
-I'm a passionate developer who enjoys turning ideas into real-world projects.
+I'm a Computer Science student who enjoys building products with clean user experiences and scalable code.
 
-Currently, I'm focused on strengthening my skills in web development while continuously exploring modern technologies and software engineering practices.
+At the moment, my primary focus is mastering JavaScript, backend development, and software engineering fundamentals.
 
-My long-term vision is to build technology that solves meaningful problems and create a startup that makes a positive impact on millions of lives.
-
----
-
-## 🚀 Current Focus
-
-- 🌐 Full Stack Web Development
-- ⚡ JavaScript & Modern Web Technologies
-- 🎨 Building Responsive & Beautiful User Interfaces
-- 📚 Data Structures & Algorithms
-- 💡 Real-World Projects
-- 🚀 Startup & Product Development
+My long-term goal is to build technology that solves meaningful problems and eventually create a world-class software company.
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# Selected Projects
+
+## Portfolio Website
+
+Modern personal portfolio focused on performance, responsive design, and simplicity.
+
+🔗 https://chitrangna.netlify.app/
+
+---
+
+## Weather Application
+
+Weather forecasting application using REST APIs.
+
+---
+
+## Telegram Utility Bot
+
+Node.js based Telegram bot with automation features.
+
+---
+
+## Stone Paper Scissors
+
+Interactive JavaScript game with responsive UI.
+
+---
+
+## To-Do Application
+
+Task management application using JavaScript.
+
+---
+
+# GitHub Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,git,github,vscode" />
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chitrangna-dev&show_icons=true&theme=transparent&hide_border=true"/>
 
-## 📌 Featured Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrangna-dev&layout=compact&theme=transparent&hide_border=true"/>
 
-| Project | Description |
-|---|---|
-| ✨ [Portfolio Website](https://chitrangna.netlify.app/) | My personal developer portfolio |
-| 🌦 Weather App | Real-time weather using a public API |
-| 📝 To-Do Application | Task management app with CRUD features |
-| 🧮 Calculator | Simple JS-based calculator |
-| 🎮 Stone Paper Scissors | Classic game built with vanilla JS |
-| 🎬 Netflix Clone | UI clone focused on responsive design |
-
-*More exciting projects are coming soon...*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitrangna-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrangna-dev&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# Currently Learning
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chitrangna-dev&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=react-dark&hide_border=true" />
-</p>
+- JavaScript (Advanced)
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Java
+- Data Structures & Algorithms
 
 ---
 
-## 🤝 Let's Connect
+# 2026 Goals
 
-<p align="left">
-  <a href="https://github.com/chitrangna-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/chitrangna-885abb413">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:chitrangna.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://chitrangna.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+- Build 20+ production-ready projects
+
+- Master React & Backend Development
+
+- Solve 300+ DSA problems
+
+- Contribute to Open Source
+
+- Build my first SaaS product
+
+- Land a Software Engineering Internship
+
+---
+
+# Connect
+
+<p>
+
+<a href="https://github.com/chitrangna-dev">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/chitrangna-885abb413">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:chitrangna.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://chitrangna.netlify.app">
+<img src="https://skillicons.dev/icons?i=netlify" height="40"/>
+</a>
+
 </p>
+
+---
 
 <div align="center">
 
-## 🌟 My Vision
+### Philosophy
 
-**Learn. Build. Launch. Impact.**
+> Build things that matter.
 
-*"Every project I build is one step closer to creating technology that improves people's lives."*
+> Stay curious.
 
-⭐ Thanks for visiting my profile!
+> Keep learning.
 
 </div>
