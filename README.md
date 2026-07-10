@@ -105,7 +105,7 @@ A modern portfolio designed to showcase my projects, skills, and developer journ
 
 🔗 **Live:** https://chitrangna.netlify.app/
 
-💻 **Source:** *(Add GitHub Repository Link)*
+💻 **Source:*(https://github.com/chitrangna-webdeveloper/my-portfolio)*
 
 ---
 
