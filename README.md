@@ -80,7 +80,7 @@ I enjoy building responsive web applications, exploring backend technologies, an
 > Modern developer portfolio with responsive design and clean UI.
 
 <p align="center">
-<img src="IMG_20260710_202751.jpg" width="400">
+<img src="IMG_20260710_211703.jpg" width="400">
 </p>
 
 **HTML • CSS • JavaScript**
