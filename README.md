@@ -86,15 +86,25 @@ More exciting projects are coming soon...
 
 ---
 
-## 🌍 Connect With Me
+## 🤝 Let's Connect
 
-💼 LinkedIn
+<p align="left">
+  <a href="https://github.com/chitrangna-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-🌐 Portfolio Website
+  <a href="https://linkedin.com/in/chitrangna-885abb413">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-📧 Email
+  <a href="mailto:chitrangna.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
----
+  <a href="https://chitrangna.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
 
