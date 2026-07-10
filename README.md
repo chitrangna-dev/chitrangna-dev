@@ -33,13 +33,11 @@ Currently focused on mastering full-stack development while learning how great p
 
 ---
 
-# About
+## About
 
-I'm a Computer Science student who enjoys building software that people genuinely find useful.
+I'm a Computer Science student focused on full-stack development and software engineering.
 
-Right now, I'm focused on strengthening my foundations in JavaScript, backend development, and software engineering by building practical projects and continuously improving my problem-solving skills.
-
-Beyond coding, I'm interested in startups, product thinking, and creating technology that has a meaningful impact.
+I enjoy building practical web applications, learning modern technologies, and improving through real-world projects.
 
 ---
 
@@ -96,14 +94,6 @@ Beyond coding, I'm interested in startups, product thinking, and creating techno
 
 ---
 
-# Development Philosophy
-
-I believe good software is built through consistency, curiosity, and continuous improvement.
-
-Rather than chasing many technologies at once, I prefer understanding the fundamentals deeply and applying them by building practical projects.
-
-Every project teaches something new, and every improvement makes me a better developer.
-
 ---# Selected Work
 
 These are some of the projects I've built while learning and exploring modern web development.
@@ -111,8 +101,6 @@ These are some of the projects I've built while learning and exploring modern we
 ---
 
 ## 🌿 Portfolio Website
-
-A modern portfolio designed to showcase my projects, skills, and developer journey with a focus on clean UI and responsive design.
 
 **Tech Stack**
 
@@ -126,8 +114,6 @@ A modern portfolio designed to showcase my projects, skills, and developer journ
 
 ## 🌦 Weather Application
 
-A weather application that fetches real-time weather information using a public REST API.
-
 **Tech Stack**
 
 `HTML` • `CSS` • `JavaScript` • `REST API`
@@ -138,7 +124,6 @@ A weather application that fetches real-time weather information using a public 
 
 ## 🤖 Telegram Utility Bot
 
-A Telegram bot developed with Node.js that automates useful tasks and improves community interaction.
 
 **Tech Stack**
 
@@ -149,8 +134,6 @@ A Telegram bot developed with Node.js that automates useful tasks and improves c
 ---
 
 ## 📝 To-Do Application
-
-A clean and responsive task management application supporting CRUD operations.
 
 **Tech Stack**
 
@@ -166,7 +149,6 @@ A clean and responsive task management application supporting CRUD operations.
 
 ## 🎮 Stone Paper Scissors
 
-A browser game built with JavaScript focusing on DOM manipulation and game logic.
 
 **Tech Stack**
 
@@ -228,20 +210,6 @@ I'm currently focused on strengthening my fundamentals before moving toward more
 
 ---
 
-# Beyond Coding
-
-When I'm not coding, I enjoy learning about:
-
-- Product Design
-- Startup Ecosystems
-- Software Architecture
-- Artificial Intelligence
-- Emerging Technologies
-
-I believe understanding technology is important, but understanding people and the problems they face is what leads to building meaningful products.
-
----
-
 # Let's Connect
 
 <p align="left">
@@ -271,24 +239,6 @@ I believe understanding technology is important, but understanding people and th
 I'm always interested in collaborating on meaningful open-source projects, developer tools, and innovative web applications.
 
 If you're working on something interesting, feel free to connect.
-
-## What You'll Find Here
-
-- Personal Projects
-- Learning Experiments
-- Frontend Applications
-- Backend Practice
-- Open Source Contributions (Coming Soon)
-
----
-
-## Looking Ahead
-
-My current focus is becoming a strong software engineer by mastering the fundamentals of web development and problem solving.
-
-Over time, I hope to build products that solve meaningful problems and contribute to technology through continuous learning and practical experience.
-
----
 
 <div align="center">
 
