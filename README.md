@@ -67,7 +67,7 @@ More exciting projects are coming soon...
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chitrangna-dev&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chitrangna-dev&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
 </p>
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=transparent&hide_border=true" />
