@@ -272,38 +272,6 @@ I'm always interested in collaborating on meaningful open-source projects, devel
 
 If you're working on something interesting, feel free to connect.
 
-
-
-<div align="center">
-
-## Building Today for Tomorrow
-
-I don't believe great software is built overnight.
-
-It grows through curiosity, consistent practice, thoughtful design, and a willingness to keep improving.
-
-Every project I build is another opportunity to learn something new and write better software than yesterday.
-
-</div>
-
----
-
-## Development Principles
-
-✔ Write clean and maintainable code
-
-✔ Build responsive user experiences
-
-✔ Learn fundamentals before frameworks
-
-✔ Focus on quality over quantity
-
-✔ Keep improving through real projects
-
-✔ Stay curious and keep learning
-
----
-
 ## What You'll Find Here
 
 - Personal Projects
