@@ -186,15 +186,15 @@ A browser game built with JavaScript focusing on DOM manipulation and game logic
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitrangna-dev&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrangna-dev&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -272,17 +272,7 @@ I'm always interested in collaborating on meaningful open-source projects, devel
 
 If you're working on something interesting, feel free to connect.
 
----
 
-<div align="center">
-
-### Thanks for stopping by.
-
-*"Stay curious. Build consistently. Focus on creating value."*
-
-⭐ If you like my work, consider giving a star to the repositories you find useful.
-
-</div>---
 
 <div align="center">
 
