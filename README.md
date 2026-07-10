@@ -110,7 +110,9 @@ Automation bot built with Node.js and the Telegram Bot API.
 
 **Node.js • Telegram API**
 
-[💻 Source Code](YOUR_REPO)
+<a href="https://github.com/chitrangna-dev/Telegram-Bot">
+  <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge" />
+</a>
 
 ---
 
@@ -120,7 +122,7 @@ Simple task manager with CRUD functionality.
 
 **HTML • CSS • JavaScript**
 
-<a href="https://github.com/chitrangna-dev/Telegram-Bot">
+<a href="https://github.com/chitrangna-dev/Todo-App">
   <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge" />
 </a>
 
