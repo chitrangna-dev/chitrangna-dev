@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Chitrangna Banner" width="100%" />
+<img src="ChatGPT Image Jul 10, 2026, 08_13_00 PM.png" alt="Chitrangna Banner" width="100%" />
 
 <br>
 
