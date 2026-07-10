@@ -79,13 +79,18 @@ I enjoy building responsive web applications, exploring backend technologies, an
 > Modern developer portfolio with responsive design and clean UI.
 
 <p align="center">
-<img src="IMG_20260710_202751.jpg" width="650">
+<img src="IMG_20260710_202751.jpg" width="400">
 </p>
 
 **HTML • CSS • JavaScript**
 
-[🌐 Live Demo](https://chitrangna.netlify.app/) • [💻 Source Code](YOUR_REPO)
+<a href="https://chitrangna.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-66BB6A?style=for-the-badge" />
+</a>
 
+<a href="https://github.com/chitrangna-dev/chitrangna-dev">
+  <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge" />
+</a>
 ---
 
 ### 🌦 Weather Application
