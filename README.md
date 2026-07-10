@@ -99,8 +99,9 @@ Real-time weather application powered by REST APIs.
 
 **HTML • CSS • JavaScript**
 
-[💻 Source Code](YOUR_REPO)
-
+<a href="https://github.com/chitrangna-dev/Weather-App">
+  <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge" />
+</a>
 ---
 
 ### 🤖 Telegram Utility Bot
@@ -119,7 +120,9 @@ Simple task manager with CRUD functionality.
 
 **HTML • CSS • JavaScript**
 
-[💻 Source Code](YOUR_REPO)
+<a href="https://github.com/chitrangna-dev/Telegram-Bot">
+  <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge" />
+</a>
 
 ---
 
