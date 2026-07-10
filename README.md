@@ -103,7 +103,7 @@ These are some of the projects I've built while learning and exploring modern we
 ## 🌿 Portfolio Website
 
 <p align="center">
-  <img src="assets/portfolio.png" width="700" alt="Portfolio Screenshot">
+  <img src="IMG_20260710_202751.jpg" width="700" alt="Portfolio Screenshot">
 </p>
 
 **Tech Stack**
