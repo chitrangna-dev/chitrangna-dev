@@ -3,6 +3,7 @@
 <img src="banner.png" width="100%" alt="Banner"/>
 
 <br>
+<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=flat-square"/>
 
 # Chitrangna
 
