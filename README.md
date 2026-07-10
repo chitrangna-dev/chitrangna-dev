@@ -6,7 +6,7 @@
 
 > *"Building useful software today. Building impactful companies tomorrow."*
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
+<img src="banner.png" width="100%" alt="Banner"/>
 
 </div>
 
