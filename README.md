@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=66BB6A&center=true&vCenter=true&width=700&lines=Hi+I'm+Chitrangna;Aspiring+Full+Stack+Developer;Building+Useful+Software;Future+Tech+Entrepreneur" />
 </p>
+
 <div align="center">
 
 # 👋 Hi, I'm Chitrangna
@@ -10,6 +11,8 @@
 > *"Building useful software today. Building impactful companies tomorrow."*
 
 <img src="banner.png" width="100%" alt="Banner"/>
+
+<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=flat" />
 
 </div>
 
@@ -39,49 +42,51 @@ My long-term vision is to build technology that solves meaningful problems and c
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,git,github,vscode" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-✨ Portfolio Website
+| Project | Description |
+|---|---|
+| ✨ [Portfolio Website](https://chitrangna.netlify.app/) | My personal developer portfolio |
+| 🌦 Weather App | Real-time weather using a public API |
+| 📝 To-Do Application | Task management app with CRUD features |
+| 🧮 Calculator | Simple JS-based calculator |
+| 🎮 Stone Paper Scissors | Classic game built with vanilla JS |
+| 🎬 Netflix Clone | UI clone focused on responsive design |
 
-🌦 Weather App
-
-📝 To-Do Application
-
-🧮 Calculator
-
-🎮 Stone Paper Scissors
-
-🎬 Netflix Clone
-
-More exciting projects are coming soon...
+*More exciting projects are coming soon...*
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chitrangna-dev&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
-</p>
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitrangna-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrangna-dev&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chitrangna-dev&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent"/>
+---
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -92,15 +97,12 @@ More exciting projects are coming soon...
   <a href="https://github.com/chitrangna-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://linkedin.com/in/chitrangna-885abb413">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:chitrangna.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://chitrangna.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
