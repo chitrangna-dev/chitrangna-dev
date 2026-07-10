@@ -79,7 +79,7 @@ I enjoy building responsive web applications, exploring backend technologies, an
 > Modern developer portfolio with responsive design and clean UI.
 
 <p align="center">
-<img src="assets/portfolio.png" width="650">
+<img src="IMG_20260710_202751.jpg" width="650">
 </p>
 
 **HTML • CSS • JavaScript**
