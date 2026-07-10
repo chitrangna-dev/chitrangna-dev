@@ -86,96 +86,7 @@ Beyond coding, I'm interested in startups, product thinking, and creating techno
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
----
 
-> *"Every project is an opportunity to learn, improve, and build something meaningful."*
-> # Selected Work
-
-These are some of the projects I've built while learning and exploring modern web development.
-
----
-
-## 🌿 Portfolio Website
-
-A modern portfolio designed to showcase my projects, skills, and developer journey with a focus on clean UI and responsive design.
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
-
-🔗 **Live:** https://chitrangna.netlify.app/
-
-💻 **Source:*(https://github.com/chitrangna-webdeveloper/my-portfolio)*
-
----
-
-## 🌦 Weather Application
-
-A weather application that fetches real-time weather information using a public REST API.
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript` • `REST API`
-
-💻 **Source:** *()*
-
----
-
-## 🤖 Telegram Utility Bot
-
-A Telegram bot developed with Node.js that automates useful tasks and improves community interaction.
-
-**Tech Stack**
-
-`Node.js` • `Telegram API`
-
-💻 **Source:** *()*
-
----
-
-## 📝 To-Do Application
-
-A clean and responsive task management application supporting CRUD operations.
-
-**Tech Stack**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-💻 **Source:** *()*
-
----
-
-## 🎮 Stone Paper Scissors
-
-A browser game built with JavaScript focusing on DOM manipulation and game logic.
-
-**Tech Stack**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-🔗 **Live:** *(Add Live Link)*
-
-💻 **Source:** *()*
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitrangna-dev&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrangna-dev&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -287,15 +198,6 @@ A browser game built with JavaScript focusing on DOM manipulation and game logic
 
 </p>
 
----
-
-# Development Philosophy
-
-I believe good software is built through consistency, curiosity, and continuous improvement.
-
-Rather than chasing many technologies at once, I prefer understanding the fundamentals deeply and applying them by building practical projects.
-
-Every project teaches something new, and every improvement makes me a better developer.
 
 ---# Learning Journey
 
