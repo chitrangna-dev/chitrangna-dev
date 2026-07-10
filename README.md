@@ -10,8 +10,7 @@
 
 <p>
 
-I enjoy creating software that is clean, practical, and thoughtfully designed.<br>
-Currently focused on mastering full-stack development while learning how great products are built.
+I build practical web applications while improving my skills in full-stack development and software engineering.
 
 </p>
 
@@ -41,7 +40,7 @@ I enjoy building practical web applications, learning modern technologies, and i
 
 ---
 
-# What I'm Working On
+# Current Focus
 
 - Building responsive and accessible web applications
 - Deepening my JavaScript fundamentals
@@ -100,7 +99,12 @@ These are some of the projects I've built while learning and exploring modern we
 
 ---
 
+
 ## 🌿 Portfolio Website
+
+<p align="center">
+  <img src="assets/portfolio.png" width="700" alt="Portfolio Screenshot">
+</p>
 
 **Tech Stack**
 
@@ -181,10 +185,6 @@ These are some of the projects I've built while learning and exploring modern we
 </p>
 
 
----# Learning Journey
-
-I'm currently focused on strengthening my fundamentals before moving toward more advanced technologies.
-
 ### Currently Exploring
 
 - JavaScript (Advanced Concepts)
@@ -244,8 +244,9 @@ If you're working on something interesting, feel free to connect.
 
 ### Thanks for visiting.
 
-If you find something interesting, feel free to explore the repositories or connect with me.
-
+Build with purpose.
+Learn continuously.
+Stay curious.
 <br>
 
 <a href="https://github.com/chitrangna-dev">
