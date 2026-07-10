@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=66BB6A&center=true&vCenter=true&width=700&lines=Hi+I'm+Chitrangna;Aspiring+Full+Stack+Developer;Building+Useful+Software;Future+Tech+Entrepreneur" />
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Chitrangna
