@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="ChatGPT Image Jul 10, 2026, 08_13_00 PM.png" alt="Chitrangna Banner" width="100%" />
+<img src="banner.png" width="100%" alt="Banner"/>
 
 <br>
 
 # Chitrangna
 
-### Computer Science Student • Full Stack Developer • Building for the Web
+### Computer Science Student • Full Stack Developer
+
+Building practical software with clean design, strong fundamentals, and continuous learning.
 
 <p>
-
-I build practical web applications while improving my skills in full-stack development and software engineering.
-
-</p>
-
-<br>
 
 <a href="https://github.com/chitrangna-dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -25,8 +21,10 @@ I build practical web applications while improving my skills in full-stack devel
 </a>
 
 <a href="https://chitrangna.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-34A853?style=flat-square&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-2DBE60?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
+
+</p>
 
 </div>
 
@@ -34,24 +32,13 @@ I build practical web applications while improving my skills in full-stack devel
 
 ## About
 
-I'm a Computer Science student focused on full-stack development and software engineering.
+I'm a Computer Science student focused on becoming a strong software engineer through consistent learning and hands-on projects.
 
-I enjoy building practical web applications, learning modern technologies, and improving through real-world projects.
-
----
-
-# Current Focus
-
-- Building responsive and accessible web applications
-- Deepening my JavaScript fundamentals
-- Learning React and Node.js
-- Exploring backend development and databases
-- Practicing Data Structures & Algorithms
-- Improving UI design and user experience
+I enjoy building responsive web applications, exploring backend technologies, and improving my problem-solving skills with every project.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -83,92 +70,55 @@ I enjoy building practical web applications, learning modern technologies, and i
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
+---
 
+# Featured Projects
+
+### 🌿 Portfolio Website
+
+> Modern developer portfolio with responsive design and clean UI.
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=transparent&hide_border=true"/>
-
+<img src="assets/portfolio.png" width="650">
 </p>
 
----
+**HTML • CSS • JavaScript**
 
----# Selected Work
-
-These are some of the projects I've built while learning and exploring modern web development.
+[🌐 Live Demo](https://chitrangna.netlify.app/) • [💻 Source Code](YOUR_REPO)
 
 ---
 
+### 🌦 Weather Application
 
-## 🌿 Portfolio Website
+Real-time weather application powered by REST APIs.
 
-<p align="center">
-  <img src="IMG_20260710_202751.jpg" width="700" alt="Portfolio Screenshot">
-</p>
+**HTML • CSS • JavaScript**
 
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
-
-🔗 **Live:** https://chitrangna.netlify.app/
-
-💻 **Source:** *()*
+[💻 Source Code](YOUR_REPO)
 
 ---
 
-## 🌦 Weather Application
+### 🤖 Telegram Utility Bot
 
-**Tech Stack**
+Automation bot built with Node.js and the Telegram Bot API.
 
-`HTML` • `CSS` • `JavaScript` • `REST API`
+**Node.js • Telegram API**
 
-💻 **Source:** *()*
-
----
-
-## 🤖 Telegram Utility Bot
-
-
-**Tech Stack**
-
-`Node.js` • `Telegram API`
-
-💻 **Source:** *()*
+[💻 Source Code](YOUR_REPO)
 
 ---
 
-## 📝 To-Do Application
+### 📋 To-Do Application
 
-**Tech Stack**
+Simple task manager with CRUD functionality.
 
-`HTML`
+**HTML • CSS • JavaScript**
 
-`CSS`
-
-`JavaScript`
-
-💻 **Source:** *()*
+[💻 Source Code](YOUR_REPO)
 
 ---
 
-## 🎮 Stone Paper Scissors
-
-
-**Tech Stack**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-🔗 **Live:** *()*
-
-💻 **Source:** *()*
-
----
-
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
@@ -184,35 +134,22 @@ These are some of the projects I've built while learning and exploring modern we
 
 </p>
 
+---
 
-### Currently Exploring
+## Currently Learning
 
-- JavaScript (Advanced Concepts)
 - React
 - Node.js
 - Express.js
 - MongoDB
 - Java
 - Data Structures & Algorithms
-- Git & GitHub Workflows
 
 ---
 
-# 2026 Goals
+## Connect
 
-- Build 20+ high-quality projects
-- Master the MERN Stack
-- Solve 300+ DSA problems
-- Contribute to Open Source
-- Improve system design fundamentals
-- Build my first SaaS product
-- Earn a Software Engineering Internship
-
----
-
-# Let's Connect
-
-<p align="left">
+<p>
 
 <a href="https://github.com/chitrangna-dev">
 <img src="https://skillicons.dev/icons?i=github" height="42"/>
@@ -234,23 +171,8 @@ These are some of the projects I've built while learning and exploring modern we
 
 ---
 
-# Open to Collaboration
-
-I'm always interested in collaborating on meaningful open-source projects, developer tools, and innovative web applications.
-
-If you're working on something interesting, feel free to connect.
-
 <div align="center">
 
-### Thanks for visiting.
-
-Build with purpose.
-Learn continuously.
-Stay curious.
-<br>
-
-<a href="https://github.com/chitrangna-dev">
-<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Build. Learn. Improve.
 
 </div>
