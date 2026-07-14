@@ -2,42 +2,32 @@
 
 <img src="banner.png" width="100%" alt="Banner"/>
 
-<br><br>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=flat-square"/>
 
-<h1>Chitrangna</h1>
+# Chitrangna
+
+### Computer Science Student • Full Stack Developer
+
+Building practical software with clean design, strong fundamentals, and continuous learning.
 
 <p>
-<b>Computer Science Student • Full Stack Developer</b>
-</p>
-
-<p>
-Building practical software with clean design,<br>
-strong fundamentals, and continuous learning.
-</p>
-
-<br>
 
 <a href="https://github.com/chitrangna-dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;
-
 <a href="https://linkedin.com/in/chitrangna-885abb413">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://chitrangna.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-2DBE60?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
----   
+</div>
 
 ---
 
@@ -48,43 +38,27 @@ I'm a Computer Science student focused on becoming a strong software engineer th
 I enjoy building responsive web applications, exploring backend technologies, and improving my problem-solving skills with every project.
 
 ---
+
+## Tech Stack
+
 ### Languages
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,java"/>
 </p>
 
-<br>
-
 ### Frontend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
 
-<br>
-
 ### Backend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-<br>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-<br>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
 ### Database
 
 <p>
@@ -212,4 +186,4 @@ Simple task manager with CRUD functionality.
 
 ### Build. Learn. Improve.
 
-</div>
+</div> ye rha real code isme spacing improve krke do
