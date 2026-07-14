@@ -84,9 +84,11 @@ or a concrete number once you have one ("300+ DSA problems solved"). Specific > 
 
 ## 🛠️ Tech Stack
 
-<table>
+<div align="center">
+
+<table width="80%">
 <tr>
-<td><b>Languages</b></td>
+<td width="20%"><b>Languages</b></td>
 <td><img src="https://skillicons.dev/icons?i=html,css,js,java"/></td>
 </tr>
 <tr>
@@ -106,6 +108,8 @@ or a concrete number once you have one ("300+ DSA problems solved"). Specific > 
 <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/></td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
