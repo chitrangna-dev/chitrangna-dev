@@ -2,32 +2,42 @@
 
 <img src="banner.png" width="100%" alt="Banner"/>
 
-<br>
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=flat-square"/>
 
-# Chitrangna
-
-### Computer Science Student • Full Stack Developer
-
-Building practical software with clean design, strong fundamentals, and continuous learning.
+<h1>Chitrangna</h1>
 
 <p>
+<b>Computer Science Student • Full Stack Developer</b>
+</p>
+
+<p>
+Building practical software with clean design,<br>
+strong fundamentals, and continuous learning.
+</p>
+
+<br>
 
 <a href="https://github.com/chitrangna-dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://linkedin.com/in/chitrangna-885abb413">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://chitrangna.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-2DBE60?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
-</p>
-
 </div>
+
+---   
 
 ---
 
