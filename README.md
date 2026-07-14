@@ -48,27 +48,43 @@ I'm a Computer Science student focused on becoming a strong software engineer th
 I enjoy building responsive web applications, exploring backend technologies, and improving my problem-solving skills with every project.
 
 ---
-
-## Tech Stack
-
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java"/>
 </p>
 
+<br>
+
 ### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
 
+<br>
+
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
+<br>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+<br>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
 ### Database
 
 <p>
