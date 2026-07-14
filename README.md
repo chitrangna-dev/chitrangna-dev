@@ -184,6 +184,12 @@ Simple task manager with CRUD functionality.
 
 <div align="center">
 
-### Build. Learn. Improve.
+---
 
-</div> ye rha real code isme spacing improve krke do
+<h3>Build • Learn • Improve</h3>
+
+<p>
+Always building practical software with consistency.
+</p>
+
+</div>
