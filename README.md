@@ -158,28 +158,32 @@ Simple task manager with CRUD functionality.
 
 ---
 
-<p align="center">
+## Connect
+
+<p>
 
 <a href="https://github.com/chitrangna-dev">
 <img src="https://skillicons.dev/icons?i=github" height="42"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://linkedin.com/in/chitrangna-885abb413">
 <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="mailto:chitrangna.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://chitrangna.netlify.app">
 <img src="https://skillicons.dev/icons?i=netlify" height="42"/>
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+### Build. Learn. Improve.
+
+</div> ye rha real code isme spacing improve krke do
