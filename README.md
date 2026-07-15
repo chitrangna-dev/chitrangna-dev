@@ -1,4 +1,3 @@
-<div align="center">
 
 <div align="center">
 
@@ -181,13 +180,13 @@ I'm always open to conversations about software engineering, internships, and co
 <img src="https://skillicons.dev/icons?i=netlify" height="42"/>
 </a>
 
-</p>
 
 <div align="center">
 
----
+### 🌱 Build • Learn • Grow
 
-<h3>Build • Learn • Improve</h3>
-<p><i>Consistency compounds.</i></p>
+*"Learning by building, improving one project at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:2E7D32&height=140&section=footer"/>
 
 </div>
