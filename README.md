@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:2E7D32&height=220&section=header&text=Chitrangna&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-</div>
+
 
 <br><br>
 
@@ -27,6 +27,8 @@ Building software that solves real problems — with clean architecture, strong 
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
+
 ## 👋 About Me
 
 I'm a Computer Science undergraduate who enjoys learning by building projects.
@@ -39,7 +41,8 @@ I believe clean code, continuous learning, and consistency are more valuable tha
 Optional: add 1-2 lines here once true — e.g. a specific goal ("targeting SDE roles at product-based companies"),
 or a concrete number once you have one ("300+ DSA problems solved"). Specific > generic
 <br>
-
+-->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
 ## 🧠 Currently Focused On
 
 <table>
@@ -64,6 +67,7 @@ or a concrete number once you have one ("300+ DSA problems solved"). Specific > 
 </table>
 
 <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
 
 ## 🛠️ Tech Stack
 
@@ -91,7 +95,7 @@ or a concrete number once you have one ("300+ DSA problems solved"). Specific > 
 </table>
 
 <br>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
 ## 🚀 Featured Projects
 
 ### 🌿 Portfolio Website
@@ -142,6 +146,7 @@ described with a specific, honest outcome (not a generic feature list).
 -->
 
 <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
 
 ## 📊 GitHub Analytics
 
@@ -157,7 +162,7 @@ described with a specific, honest outcome (not a generic feature list).
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=github-compact"/>
 
 <br>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
 ## 🤝 Let's Connect
 
 I'm always open to conversations about software engineering, internships, and collaborative projects.
