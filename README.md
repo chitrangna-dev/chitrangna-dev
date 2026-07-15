@@ -8,8 +8,8 @@
 
 # Chitrangna
 
-###Computer Science Undergraduate • Aspiring Full-Stack Developer
-Building software that solves real problems — with clean architecture, strong fundamentals, and a habit of shipping.
+### Computer Science Undergraduate • Aspiring Full-Stack Developer
+Learning software engineering by building responsive web applications and continuously improving my problem-solving skills.
 
 <p>
 
@@ -55,6 +55,7 @@ I believe clean code, continuous learning, and consistency are more valuable tha
 Optional: add 1-2 lines here once true — e.g. a specific goal ("targeting SDE roles at product-based companies"),
 or a concrete number once you have one ("300+ DSA problems solved"). Specific > generic
 <br>
+-->
 
 ## 🧠 Currently Focused On
 
@@ -170,8 +171,9 @@ described with a specific, honest outcome (not a generic feature list).
 <img src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=transparent&hide_border=true"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=github-compact"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=github-compact"/>
+</p>
 <br>
 
 ## 🤝 Let's Connect
