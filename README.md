@@ -1,12 +1,19 @@
 <div align="center">
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:2E7D32&height=220&section=header&text=Chitrangna&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=flat-square"/>
+
 # Chitrangna
 
-### Computer Science Undergraduate • Aspiring Full-Stack Developer
-Learning software engineering by building responsive web applications and continuously improving my problem-solving skills.
+###Computer Science Undergraduate • Aspiring Full-Stack Developer
+Building software that solves real problems — with clean architecture, strong fundamentals, and a habit of shipping.
 
 <p>
 
@@ -52,7 +59,6 @@ I believe clean code, continuous learning, and consistency are more valuable tha
 Optional: add 1-2 lines here once true — e.g. a specific goal ("targeting SDE roles at product-based companies"),
 or a concrete number once you have one ("300+ DSA problems solved"). Specific > generic
 <br>
--->
 
 ## 🧠 Currently Focused On
 
@@ -168,9 +174,8 @@ described with a specific, honest outcome (not a generic feature list).
 <img src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=transparent&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=github-compact"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=github-compact"/>
+
 <br>
 
 ## 🤝 Let's Connect
