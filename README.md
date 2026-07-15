@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:2E7D32&height=220&section=header&text=Chitrangna&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=flat-square"/>
-
+</div>
 # Chitrangna
 
 ### Computer Science Undergraduate • Aspiring Full-Stack Developer
