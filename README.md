@@ -8,8 +8,7 @@
 
 # Chitrangna
 
-### Computer Science Undergraduate • Full Stack Developer
-
+###Computer Science Undergraduate • Aspiring Full-Stack Developer
 Building software that solves real problems — with clean architecture, strong fundamentals, and a habit of shipping.
 
 <p>
@@ -46,15 +45,15 @@ Building software that solves real problems — with clean architecture, strong 
 
 ## 👋 About Me
 
-I'm a Computer Science undergraduate building toward a career in software engineering — currently deepening my understanding of data structures, system design, and full-stack development through consistent, hands-on practice.
+I'm a Computer Science undergraduate who enjoys learning by building projects.
 
-I care about writing code that's not just functional but *readable* — and I'm actively working on solving algorithmic problems, contributing to real codebases, and building projects with genuine technical depth rather than surface-level clones.
+Currently, I'm focused on strengthening my JavaScript fundamentals while learning React, Node.js, Express, and MongoDB. My goal is to become a software engineer by consistently improving my problem-solving skills and building real-world web applications.
+
+I believe clean code, continuous learning, and consistency are more valuable than building projects just for quantity.
 
 <!--
 Optional: add 1-2 lines here once true — e.g. a specific goal ("targeting SDE roles at product-based companies"),
-or a concrete number once you have one ("300+ DSA problems solved"). Specific > generic.
--->
-
+or a concrete number once you have one ("300+ DSA problems solved"). Specific > generic
 <br>
 
 ## 🧠 Currently Focused On
@@ -170,6 +169,8 @@ described with a specific, honest outcome (not a generic feature list).
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=chitrangna-dev&theme=transparent&hide_border=true"/>
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=github-compact"/>
 
 <br>
 
