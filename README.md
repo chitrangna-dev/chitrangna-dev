@@ -151,12 +151,6 @@ described with a specific, honest outcome (not a generic feature list).
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=github-compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chitrangna-dev&show_icons=true&theme=transparent&hide_border=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitrangna-dev&layout=compact&theme=transparent&hide_border=true"/>
 </p>
