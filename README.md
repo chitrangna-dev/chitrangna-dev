@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:2E7D32&height=220&section=header&text=Chitrangna&fontSize=55&fontColor=ffffff&animation=fadeIn"/
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:2E7D32&height=220&section=header&text=Chitrangna&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
 ><br>
 # Chitrangna
 
