@@ -41,6 +41,7 @@ Currently, I'm focused on strengthening my JavaScript fundamentals while learnin
 I believe clean code, continuous learning, and consistency are more valuable than building projects just for quantity.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
+
 ## 🧠 Currently Focused On
 
 <table>
@@ -94,6 +95,7 @@ I believe clean code, continuous learning, and consistency are more valuable tha
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
+
 ### 🚀 Featured Projects
 
 ### 🌿 Portfolio Website
