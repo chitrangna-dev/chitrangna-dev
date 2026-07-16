@@ -15,11 +15,13 @@
 Building software that solves real problems — with clean architecture, strong fundamentals, and a habit of shipping.
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&style=for-the-badge&color=66BB6A"/>
 
-<img src="https://img.shields.io/github/followers/chitrangna-dev?style=for-the-badge&color=66BB6A"/>
+<img src="https://img.shields.io/github/followers/chitrangna-dev?style=for-the-badge&color=66BB6A&label=Followers"/>
 
-<img src="https://img.shields.io/github/stars/chitrangna-dev?affiliations=OWNER&style=for-the-badge&color=66BB6A"/>
+<img src="https://img.shields.io/github/stars/chitrangna-dev?affiliations=OWNER&style=for-the-badge&color=66BB6A&label=Stars"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internship-66BB6A?style=for-the-badge"/>
 
 </p>
 
