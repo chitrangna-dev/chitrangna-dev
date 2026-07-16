@@ -94,7 +94,7 @@ I believe clean code, continuous learning, and consistency are more valuable tha
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 ### 🌿 Portfolio Website
 Personal developer portfolio — fully responsive, built from scratch with a focus on clean UI and performance.
