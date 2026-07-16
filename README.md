@@ -2,27 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:2E7D32&height=220&section=header&text=Chitrangna&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3200&pause=900&color=66BB6A&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Aspiring+Full-Stack+Developer;Building+one+project+at+a+time." alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=flat-square"/>
-
+><br>
 # Chitrangna
 
 ###Computer Science Undergraduate • Aspiring Full-Stack Developer
 Building software that solves real problems — with clean architecture, strong fundamentals, and a habit of shipping.
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&color=66BB6A&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=chitrangna-dev&label=Profile+Views&style=for-the-badge&color=66BB6A"/>
 
-<img src="https://img.shields.io/github/followers/chitrangna-dev?style=for-the-badge&color=66BB6A"/>
+<img src="https://img.shields.io/github/followers/chitrangna-dev?style=for-the-badge&color=66BB6A&label=Followers"/>
 
-<img src="https://img.shields.io/github/stars/chitrangna-dev?affiliations=OWNER&style=for-the-badge&color=66BB6A"/>
+<img src="https://img.shields.io/github/stars/chitrangna-dev?affiliations=OWNER&style=for-the-badge&color=66BB6A&label=Stars"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internship-66BB6A?style=for-the-badge"/>
 
 </p>
 
@@ -40,6 +33,11 @@ Currently, I'm focused on strengthening my JavaScript fundamentals while learnin
 
 I believe clean code, continuous learning, and consistency are more valuable than building projects just for quantity.
 
+<!--
+Optional: add 1-2 lines here once true — e.g. a specific goal ("targeting SDE roles at product-based companies"),
+or a concrete number once you have one ("300+ DSA problems solved"). Specific > generic
+<br>
+-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
 ## 🧠 Currently Focused On
 
@@ -115,7 +113,7 @@ Real-time weather lookup application consuming a third-party REST API, with erro
 
 `HTML` `CSS` `JavaScript`
 
-<a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-66BB6A?style=for-the-badge"/></a>
+<a href="#"><!-- add live demo link once deployed --><img src="https://img.shields.io/badge/🌐_Live_Demo-66BB6A?style=for-the-badge"/></a>
 <a href="https://github.com/chitrangna-dev/Weather-App"><img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge"/></a>
 
 ---
@@ -134,8 +132,14 @@ Task management app with full CRUD functionality and persistent local state.
 
 `HTML` `CSS` `JavaScript`
 
-<a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-66BB6A?style=for-the-badge"/></a>
+<a href="#"><!-- add live demo link once deployed --><img src="https://img.shields.io/badge/🌐_Live_Demo-66BB6A?style=for-the-badge"/></a>
 <a href="https://github.com/chitrangna-dev/Todo-App"><img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge"/></a>
+
+<!--
+Highest-leverage addition you can make here: one project with real depth —
+something involving an algorithm, a system design decision, or a hard technical problem —
+described with a specific, honest outcome (not a generic feature list).
+-->
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
@@ -152,14 +156,6 @@ Task management app with full CRUD functionality and persistent local state.
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chitrangna-dev&theme=github-compact"/>
-
-<p align="center">
-<img src="https://github-readme-trophies.vercel.app/?username=chitrangna-dev&theme=algolia&no-frame=true&column=4&margin-w=10"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="95%"/>
-</p>
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=66BB6A&height=2"/>
@@ -185,6 +181,7 @@ I'm always open to conversations about software engineering, internships, and co
 <img src="https://skillicons.dev/icons?i=netlify" height="42"/>
 </a>
 
+
 <div align="center">
 
 ### 🌱 Build • Learn • Grow
@@ -192,5 +189,3 @@ I'm always open to conversations about software engineering, internships, and co
 *"Learning by building, improving one project at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:2E7D32&height=140&section=footer"/>
-
-</div>
